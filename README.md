@@ -68,5 +68,4 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 <br/>
 
 ## Contact Me
-- Email: alimohamadi@example.com
-- LinkedIn: [Ali's LinkedIn](https://www.linkedin.com/in/alimohamadi)
+<p align="center"> <a href="mailto:yourname@example.com"> <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" alt="Email" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/yourprofile/"> <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a> <a href="https://github.com/yourusername"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40"/> </a> <a href="https://twitter.com/yourusername"> <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" width="40" height="40"/> </a> </p> <p align="center"> Feel free to reach out to me through any of the platforms above! </p>
