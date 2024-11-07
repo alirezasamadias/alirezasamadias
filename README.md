@@ -13,10 +13,10 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 
 ## My Projects
 <a href="https://constructionreact2023.netlify.app/">
-    <img src="https://constructionreact2023.netlify.app/Favicon.ico" alt="Favicon" width="15" height="15">
+    <img src="https://constructionreact2023.netlify.app/Favicon.ico" alt="Favicon" width="20" height="20">
 </a>
 [Construction](https://constructionreact2023.netlify.app/): This project multi-page website with React is about a company active in the construction.
-
+<br/>
 <a href="https://taskapp2024.netlify.app/">
     <img src="https://taskapp2024.netlify.app/Favicon.ico" alt="Favicon" width="15" height="15">
 </a>
