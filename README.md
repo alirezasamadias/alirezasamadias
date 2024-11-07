@@ -14,9 +14,9 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 ## My Projects
 ## Projects
 
-<div>
+<div >
     <a href="https://constructionreact2023.netlify.app/">
-        <img src="https://constructionreact2023.netlify.app/Favicon.ico" alt="Favicon" width="20" height="20" style="vertical-align: middle;">
+        <img src="https://constructionreact2023.netlify.app/Favicon.ico" alt="Favicon" width="20" height="20" style="">
         <span style="color: black; text-decoration: none;">Construction</span>
     </a>: This project multi-page website with React is about a company active in the construction.
 </div>
