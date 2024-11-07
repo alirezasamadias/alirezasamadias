@@ -16,12 +16,13 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 - [Project 2](https://restaurentjs2023.netlify.app/): This single-page website is about a restaurent; Most of the site is about the restaurant menu and finally a section for booking.
 
 ## Skills
-## My GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alimohamadi&show_icons=true&theme=radical)](https://github.com/alimohamadi)
-
-
-## My GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alimohamadi&show_icons=true)](https://github.com/alimohamadi)
+## Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-fff?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-fff?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-fff?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
+![React](https://img.shields.io/badge/-React-fff?style=flat&logo=react)
 
 ## Contact Me
 - Email: alimohamadi@example.com
