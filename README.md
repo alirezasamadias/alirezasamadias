@@ -16,7 +16,7 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 - [Project 2](https://restaurentjs2023.netlify.app/): This single-page website is about a restaurent; Most of the site is about the restaurant menu and finally a section for booking.
 
 ## Skills
-<img src="https://img.shields.io/badge/-JavaScript?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=black" />
+<img src="https://img.shields.io/badge/-JavaScript?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=transparent" />
 <img src="https://img.shields.io/badge/-Python?style=flat&logo=python&logoColor=3776AB&labelColor=black" />
 <img src="https://img.shields.io/badge/-HTML5?style=flat&logo=html5&logoColor=E34F26&labelColor=black" />
 <img src="https://img.shields.io/badge/-CSS3?style=flat&logo=css3&logoColor=1572B6&labelColor=black" />
