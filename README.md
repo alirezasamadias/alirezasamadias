@@ -16,12 +16,13 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 - [Project 2](https://restaurentjs2023.netlify.app/): This single-page website is about a restaurent; Most of the site is about the restaurant menu and finally a section for booking.
 
 ## Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-silver?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/-Python-silver?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/-HTML5-silver?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-silver?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-silver?style=for-the-badge&logo=git&logoColor=F05033)
-![React](https://img.shields.io/badge/-React-silver?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f2f2f2?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-f2f2f2?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-f2f2f2?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-f2f2f2?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-f2f2f2?style=flat&logo=git)
+![React](https://img.shields.io/badge/-React-f2f2f2?style=flat&logo=react)
+
 
 ## Contact Me
 - Email: alimohamadi@example.com
