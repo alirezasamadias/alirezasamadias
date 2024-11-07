@@ -16,12 +16,12 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 - [Project 2](https://restaurentjs2023.netlify.app/): This single-page website is about a restaurent; Most of the site is about the restaurant menu and finally a section for booking.
 
 ## Skills
-<img src="https://img.shields.io/badge/-JavaScript?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=transparent" />
-<img src="https://img.shields.io/badge/-Python?style=flat&logo=python&logoColor=3776AB&labelColor=black" />
-<img src="https://img.shields.io/badge/-HTML5?style=flat&logo=html5&logoColor=E34F26&labelColor=black" />
-<img src="https://img.shields.io/badge/-CSS3?style=flat&logo=css3&logoColor=1572B6&labelColor=black" />
-<img src="https://img.shields.io/badge/-Git?style=flat&logo=git&logoColor=F05033&labelColor=black" />
-<img src="https://img.shields.io/badge/-React?style=flat&logo=react&logoColor=61DAFB&labelColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=%23FFD43B" />
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=%23E34F26" />
+<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=%231572B6" />
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=%23F05033" />
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 
 ## My GitHub Stats
