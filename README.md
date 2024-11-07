@@ -12,6 +12,11 @@ I am well versed in Html5 and Css3 and I also know JavaScript at an intermediate
 Recently I also learned React.js and Vue.js and put some work samples in my resume.
 
 ## My Projects
+<a href="https://constructionreact2023.netlify.app/">
+    <img src="https://constructionreact2023.netlify.app/Favicon.ico" alt="Favicon" width="5" height="5">
+</a>
+[Construction](https://constructionreact2023.netlify.app/): This project multi-page website with React is about a company active in the construction.
+
 - [![Favicon](https://constructionreact2023.netlify.app/Favicon.ico){:height="5px" width="5px"}](https://constructionreact2023.netlify.app/): This project multi-page website with React is about a company active in the construction.
 - ![Favicon](https://taskapp2024.netlify.app/Favicon.ico)[Dashboard](https://taskapp2024.netlify.app/): a small project with vue for user dashboard.
 - ![Favicon](https://restaurentjs2023.netlify.app/Images/Favicon.ico)[Restaurant](https://restaurentjs2023.netlify.app/): This single-page website is about a restaurent; Most of the site is about the restaurant menu and finally a section for booking.
