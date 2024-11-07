@@ -27,9 +27,9 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 </div>
 
 <div>
-    <img src="https://taskapp2024.netlify.app/Favicon.ico" alt="Favicon" width="17" height="17">
+    <img src="https://dashboardvue2024.netlify.app/Favicon.ico" alt="Favicon" width="17" height="17">
     &nbsp;
-    <a href="https://taskapp2024.netlify.app/">Dashboard</a>
+    <a href="https://dashboardvue2024.netlify.app/">Dashboard</a>
     : a small project with vue for user dashboard.
 </div>
 
