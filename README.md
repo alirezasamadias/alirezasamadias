@@ -14,7 +14,7 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 ## My Projects
 <div>
     <img src="https://constructionreact2023.netlify.app/Favicon.ico" alt="Favicon" width="17" height="17">
-    $nbsp;
+    &nbsp;
     <a href="https://constructionreact2023.netlify.app/"><span>Construction</span></a>
     : This project multi-page website with React is about a company active in the construction.
 </div>
