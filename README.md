@@ -22,14 +22,14 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 <div>
     <img src="https://cryptoreact2023.netlify.app/Favicon.ico" alt="Favicon" width="17" height="17">
     &nbsp;
-    <a href="https://cryptoreact2023.netlify.app/">Rest API</a>
+    <a href="https://cryptoreact2023.netlify.app/" target="_blank">Rest API</a>
     : a small project with React and using axios to get data.
 </div>
 <br/>
 <div>
     <img src="https://dashboardvue2024.netlify.app/Favicon.ico" alt="Favicon" width="18" height="18">
     &nbsp;
-    <a href="https://dashboardvue2024.netlify.app/">Dashboard</a>
+    <a href="https://dashboardvue2024.netlify.app/" target="_blank">Dashboard</a>
     : a small project with vue for user dashboard.
 </div>
 <br/>
@@ -43,7 +43,7 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 <div>
     <img src="https://restapivue2024.netlify.app/Favicon.ico" alt="Favicon" width="17" height="17">
     &nbsp;
-    <a href="https://restapivue2024.netlify.app/">Rest Full API</a>
+    <a href="https://restapivue2024.netlify.app/" target="_blank">Rest Full API</a>
     : a small project with Vue and using axios to get data This project.
 </div>
   
