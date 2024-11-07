@@ -11,6 +11,7 @@ I am well versed in Html5 and Css3 and I also know JavaScript at an intermediate
 
 Recently I also learned React.js and Vue.js and put some work samples in my resume.
 
+<br/><br/>
 
 ## My Projects
 <div>
