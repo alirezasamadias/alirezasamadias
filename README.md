@@ -1,7 +1,5 @@
 # Hi, I'm Alireza! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=alimohamadi)
-
 ## About Me
 Hello, I am Alireza, and it has been more than a year since I got to know the world of programming.
 
@@ -15,10 +13,10 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 
 ## My Projects
 - [Project 1](https://constructionreact2023.netlify.app/): This project multi-page website with various section which is about a company active in the construction.
-- [Project 2](https://restaurentjs2023.netlify.app/): This single-page website has an animated banner; Most of the site is about the restaurant menu and finally a section for booking.
+- [Project 2](https://restaurentjs2023.netlify.app/): This single-page website is about a restaurent; Most of the site is about the restaurant menu and finally a section for booking.
 
 ## Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
