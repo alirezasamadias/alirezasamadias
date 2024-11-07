@@ -38,6 +38,7 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 
 
 
+
 ## Contact Me
 - Email: alimohamadi@example.com
 - LinkedIn: [Ali's LinkedIn](https://www.linkedin.com/in/alimohamadi)
