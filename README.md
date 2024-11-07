@@ -13,18 +13,16 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 
 ## My Projects
 <div>
-    <a href="https://constructionreact2023.netlify.app/">
-        <img src="https://constructionreact2023.netlify.app/Favicon.ico" alt="Favicon" width="17" height="17">
-        &nbsp;
-        <span>Construction</span>
-    </a>: This project multi-page website with React is about a company active in the construction.
+    <img src="https://constructionreact2023.netlify.app/Favicon.ico" alt="Favicon" width="17" height="17">
+    <a href="https://constructionreact2023.netlify.app/"><span>Construction</span></a>
+    : This project multi-page website with React is about a company active in the construction.
 </div>
 
 <div>
     <a href="https://cryptoreact2023.netlify.app/">
         <img src="https://cryptoreact2023.netlify.app/Favicon.ico" alt="Favicon" width="17" height="17">
         <span>Rest API</span>
-    </a>: a small project with vue for user dashboard.
+    </a>: a small project with React and using axios to get data.
 </div>
 
 <div>
@@ -37,7 +35,7 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 <div>
     <a href="https://restaurentjs2023.netlify.app/">
         <img src="https://restaurentjs2023.netlify.app/Images/Favicon.ico" alt="Favicon" width="17" height="17">
-        <span>ريالestaurent</span>
+        <span>Restaurent</span>
     </a>: This single-page website; No other libraries or packages were used to create this website
 </div>
   
