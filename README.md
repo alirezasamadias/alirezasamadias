@@ -12,10 +12,10 @@ I am well versed in Html5 and Css3 and I also know JavaScript at an intermediate
 Recently I also learned React.js and Vue.js and put some work samples in my resume.
 
 ## My Projects
-- ![Screen Project](https://constructionreact2023.netlify.app/Favicon.ico)[Construction](https://constructionreact2023.netlify.app/): This project multi-page website with React is about a company active in the construction.
-- [Dashboard](https://taskapp2024.netlify.app/): a small project with vue for user dashboard.
-- [restaurant](https://restaurentjs2023.netlify.app/): This single-page website is about a restaurent; Most of the site is about the restaurant menu and finally a section for booking.
-- [Rest-Api](https://cryptoreact2023.netlify.app/): a small project with React and using axios to get data This project.
+- ![Favicon](https://constructionreact2023.netlify.app/Favicon.ico)[Construction](https://constructionreact2023.netlify.app/): This project multi-page website with React is about a company active in the construction.
+- ![Favicon](https://taskapp2024.netlify.app/Favicon.ico)[Dashboard](https://taskapp2024.netlify.app/): a small project with vue for user dashboard.
+- ![Favicon](https://restaurentjs2023.netlify.app/Favicon.ico)[restaurant](https://restaurentjs2023.netlify.app/): This single-page website is about a restaurent; Most of the site is about the restaurant menu and finally a section for booking.
+- ![Favicon](https://cryptoreact2023.netlify.app/Favicon.ico)[Rest-Api](https://cryptoreact2023.netlify.app/): a small project with React and using axios to get data This project.
   
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
