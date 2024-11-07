@@ -11,6 +11,7 @@ I am well versed in Html5 and Css3 and I also know JavaScript at an intermediate
 
 Recently I also learned React.js and Vue.js and put some work samples in my resume.
 
+
 ## My Projects
 <div>
     <img src="https://constructionreact2023.netlify.app/Favicon.ico" alt="Favicon" width="17" height="17">
@@ -46,6 +47,7 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
     <a href="https://restapivue2024.netlify.app/">Rest Full API</a>
     : a small project with Vue and using axios to get data This project.
 </div>
+
   
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
@@ -60,6 +62,7 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
 
 ## Contact Me
 - Email: alimohamadi@example.com
