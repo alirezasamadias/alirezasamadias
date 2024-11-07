@@ -14,27 +14,33 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 ## My Projects
 ## Projects
 
-<div >
+<div>
     <a href="https://constructionreact2023.netlify.app/">
-        <img src="https://constructionreact2023.netlify.app/Favicon.ico" alt="Favicon" width="20" height="20">
-        <span style="color: #000; text-decoration: none;">Construction</span>
+        <img src="https://constructionreact2023.netlify.app/Favicon.ico" alt="Favicon" width="15" height="15">
+        <span style="color: black; text-decoration: none;">Construction</span>
     </a>: This project multi-page website with React is about a company active in the construction.
 </div>
 
-<a href="https://cryptoreact2023.netlify.app/">
-    <img src="https://cryptoreact2023.netlify.app/Favicon.ico" alt="Favicon" width="20" height="20" style="vertical-align: middle;">
-    <span style="color: black; text-decoration: none;">Rest API</span>
-</a>: a small project with vue for user dashboard.
+<div>
+    <a href="https://cryptoreact2023.netlify.app/">
+        <img src="https://cryptoreact2023.netlify.app/Favicon.ico" alt="Favicon" width="15" height="15">
+        <span style="color: black; text-decoration: none;">Rest API</span>
+    </a>: a small project with vue for user dashboard.
+</div>
 
-<a href="https://taskapp2024.netlify.app/">
-    <img src="https://taskapp2024.netlify.app/Favicon.ico" alt="Favicon" width="20" height="20" style="vertical-align: middle;">
-    <span style="color: black; text-decoration: none;">Dashboard</span>
-</a>: a small project with vue for user dashboard.
+<div>
+    <a href="https://taskapp2024.netlify.app/">
+        <img src="https://taskapp2024.netlify.app/Favicon.ico" alt="Favicon" width="15" height="15">
+        <span style="color: black; text-decoration: none;">Dashboard</span>
+    </a>: a small project with vue for user dashboard.
+</div>
 
-<a href="https://restaurentjs2023.netlify.app/">
-    <img src="https://restaurentjs2023.netlify.app/Images/Favicon.ico" alt="Favicon" width="20" height="20" style="vertical-align: middle;">
-    <span style="color: black; text-decoration: none;">restaurent</span>
-</a>: A small project with React and using axios to get data.
+<div>
+    <a href="https://restaurentjs2023.netlify.app/">
+        <img src="https://restaurentjs2023.netlify.app/Images/Favicon.ico" alt="Favicon" width="15" height="15">
+        <span style="color: black; text-decoration: none;">restaurent</span>
+    </a>: A small project with React and using axios to get data.
+</div>
   
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
