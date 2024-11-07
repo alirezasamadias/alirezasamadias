@@ -1,7 +1,5 @@
 # Hi, I'm Alireza! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=alimohamadi)
-
 ## About Me
 Hello, I am Alireza, and it has been more than a year since I got to know the world of programming.
 
