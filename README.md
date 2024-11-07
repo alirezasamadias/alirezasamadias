@@ -16,13 +16,12 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 - [Project 2](https://restaurentjs2023.netlify.app/): This single-page website is about a restaurent; Most of the site is about the restaurant menu and finally a section for booking.
 
 ## Skills
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=%23FFD43B" />
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=%23E34F26" />
-<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=%231572B6" />
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=%23F05033" />
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-
+<i class="fab fa-js-square" style="font-size: 24px; color: #F7DF1E;"></i> JavaScript
+<i class="fab fa-python" style="font-size: 24px; color: #3776AB;"></i> Python
+<i class="fab fa-html5" style="font-size: 24px; color: #E34F26;"></i> HTML5
+<i class="fab fa-css3-alt" style="font-size: 24px; color: #1572B6;"></i> CSS3
+<i class="fab fa-git-square" style="font-size: 24px; color: #F05033;"></i> Git
+<i class="fab fa-react" style="font-size: 24px; color: #61DAFB;"></i> React
 
 ## My GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alimohamadi&show_icons=true)](https://github.com/alimohamadi)
