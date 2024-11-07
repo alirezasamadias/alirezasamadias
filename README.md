@@ -12,33 +12,31 @@ I am well versed in Html5 and Css3 and I also know JavaScript at an intermediate
 Recently I also learned React.js and Vue.js and put some work samples in my resume.
 
 ## My Projects
-## Projects
-
 <div>
     <a href="https://constructionreact2023.netlify.app/">
-        <img src="https://constructionreact2023.netlify.app/Favicon.ico" alt="Favicon" width="15" height="15" style="vertical-align: middle; margin-right: 8px;">
-        <span style="color: black; text-decoration: none;">Construction</span>
+        <img src="https://constructionreact2023.netlify.app/Favicon.ico" alt="Favicon" width="17" height="17">
+        <span>Construction</span>
     </a>: This project multi-page website with React is about a company active in the construction.
 </div>
 
 <div>
     <a href="https://cryptoreact2023.netlify.app/">
-        <img src="https://cryptoreact2023.netlify.app/Favicon.ico" alt="Favicon" width="15" height="15">
-        <span style="color: black; text-decoration: none;">Rest API</span>
+        <img src="https://cryptoreact2023.netlify.app/Favicon.ico" alt="Favicon" width="17" height="17">
+        <span>Rest API</span>
     </a>: a small project with vue for user dashboard.
 </div>
 
 <div>
     <a href="https://taskapp2024.netlify.app/">
-        <img src="https://taskapp2024.netlify.app/Favicon.ico" alt="Favicon" width="15" height="15">
-        <span style="color: black; text-decoration: none;">Dashboard</span>
+        <img src="https://taskapp2024.netlify.app/Favicon.ico" alt="Favicon" width="17" height="17">
+        <span>Dashboard</span>
     </a>: a small project with vue for user dashboard.
 </div>
 
 <div>
     <a href="https://restaurentjs2023.netlify.app/">
-        <img src="https://restaurentjs2023.netlify.app/Images/Favicon.ico" alt="Favicon" width="15" height="15">
-        <span style="color: black; text-decoration: none;">restaurent</span>
+        <img src="https://restaurentjs2023.netlify.app/Images/Favicon.ico" alt="Favicon" width="17" height="17">
+        <span>restaurent</span>
     </a>: A small project with React and using axios to get data.
 </div>
   
