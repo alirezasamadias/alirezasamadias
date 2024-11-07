@@ -16,12 +16,13 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 - [Project 2](https://restaurentjs2023.netlify.app/): This single-page website is about a restaurent; Most of the site is about the restaurant menu and finally a section for booking.
 
 ## Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-fff?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-fff?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-fff?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
-![React](https://img.shields.io/badge/-React-fff?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![Python](https://img.shields.io/badge/-Python-gray?style=for-the-badge&logo=Python&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/-HTML5-gray?style=for-the-badge&logo=HTML5&logoColor=yellow)
+![CSS3](https://img.shields.io/badge/-CSS3-gray?style=for-the-badge&logo=CSS3&logoColor=yellow)
+![Git](https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=Git&logoColor=yellow)
+![React](https://img.shields.io/badge/-React-gray?style=for-the-badge&logo=React&logoColor=yellow)
+
 
 ## Contact Me
 - Email: alimohamadi@example.com
