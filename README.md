@@ -1,7 +1,9 @@
-# Hi, I'm Ali! 👋
+# Hi, I'm Alireza! 👋
+
+![Profile views](https://komarev.com/ghpvc/?username=alimohamadi)
 
 ## About Me
-I am Alireza, I am 22 years old, and it has been more than a year since I got to know the world of programming.
+Hello, I am Alireza, and it has been more than a year since I got to know the world of programming.
 
 Web Developer with a strong focus on responsive design and usability as well as creating and optimizing web applications to enhance user experience and performance.
 
@@ -12,8 +14,8 @@ I am well versed in Html5 and Css3 and I also know JavaScript at an intermediate
 Recently I also learned React.js and Vue.js and put some work samples in my resume.
 
 ## My Projects
-- [Project 1](https://github.com/alimohamadi/project1): Short description of the project
-- [Project 2](https://github.com/alimohamadi/project2): Short description of the project
+- [Project 1](https://constructionreact2023.netlify.app/): Short description of the project
+- [Project 2](https://restaurentjs2023.netlify.app/): Short description of the project
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
