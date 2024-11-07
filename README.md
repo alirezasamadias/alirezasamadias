@@ -39,6 +39,13 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
     <a href="https://restaurentjs2023.netlify.app/">Restaurent</a>
     : This single-page website; No other libraries or packages were used to create this website
 </div>
+
+<div>
+    <img src="https://restapivue2024.netlify.app/Favicon.ico" alt="Favicon" width="17" height="17">
+    &nbsp;
+    <a href="https://restapivue2024.netlify.app/">Rest Full API</a>
+    : a small project with Vue and using axios to get data This project.
+</div>
   
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
