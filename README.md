@@ -40,7 +40,7 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## Skills
-<span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 5px;">
+<span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 50px;">
     <img src="https://img.shields.io/badge/-JavaScript-silver?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </span>
 <span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 5px;">
