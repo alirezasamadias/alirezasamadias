@@ -36,42 +36,19 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-silver?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![jQuery](https://img.shields.io/badge/-jQuery-silver?style=for-the-badge&logo=jquery&logoColor=0769AD)
 ## Skills
-<span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 5px;">
-    <img src="https://img.shields.io/badge/-JavaScript-silver?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</span>
-<span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 5px;">
-    <img src="https://img.shields.io/badge/-React-silver?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</span>
-<span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 5px;">
-    <img src="https://img.shields.io/badge/-Vue.js-silver?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-</span>
-<span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 5px;">
-    <img src="https://img.shields.io/badge/-REST&#32;API-silver?style=for-the-badge&logo=api&logoColor=black" />
-</span>
-<span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 5px;">
-    <img src="https://img.shields.io/badge/-Responsive&#32;Design-silver?style=for-the-badge&logo=responsive&logoColor=1572B6" />
-</span>
-<span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 5px;">
-    <img src="https://img.shields.io/badge/-Git-silver?style=for-the-badge&logo=git&logoColor=F05033" />
-</span>
-<span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 5px;">
-    <img src="https://img.shields.io/badge/-GitHub-silver?style=for-the-badge&logo=github&logoColor=181717" />
-</span>
-<span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 5px;">
-    <img src="https://img.shields.io/badge/-HTML5-silver?style=for-the-badge&logo=html5&logoColor=E34F26" />
-</span>
-<span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 5px;">
-    <img src="https://img.shields.io/badge/-CSS3-silver?style=for-the-badge&logo=css3&logoColor=1572B6" />
-</span>
-<span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 5px;">
-    <img src="https://img.shields.io/badge/-Sass-silver?style=for-the-badge&logo=sass&logoColor=CC6699" />
-</span>
-<span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 5px;">
-    <img src="https://img.shields.io/badge/-Bootstrap-silver?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
-</span>
-<span style="display: inline-block; border-radius: 12px; overflow: hidden; padding: 5px;">
-    <img src="https://img.shields.io/badge/-jQuery-silver?style=for-the-badge&logo=jquery&logoColor=0769AD" />
-</span>
+<p><img src="https://img.shields.io/badge/-JavaScript-silver?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="border-radius: 10px;" /></p>
+<p><img src="https://img.shields.io/badge/-React-silver?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius: 10px;" /></p>
+<p><img src="https://img.shields.io/badge/-Vue.js-silver?style=for-the-badge&logo=vue.js&logoColor=4FC08D" style="border-radius: 10px;" /></p>
+<p><img src="https://img.shields.io/badge/-REST&#32;API-silver?style=for-the-badge&logo=api&logoColor=black" style="border-radius: 10px;" /></p>
+<p><img src="https://img.shields.io/badge/-Responsive&#32;Design-silver?style=for-the-badge&logo=responsive&logoColor=1572B6" style="border-radius: 10px;" /></p>
+<p><img src="https://img.shields.io/badge/-Git-silver?style=for-the-badge&logo=git&logoColor=F05033" style="border-radius: 10px;" /></p>
+<p><img src="https://img.shields.io/badge/-GitHub-silver?style=for-the-badge&logo=github&logoColor=181717" style="border-radius: 10px;" /></p>
+<p><img src="https://img.shields.io/badge/-HTML5-silver?style=for-the-badge&logo=html5&logoColor=E34F26" style="border-radius: 10px;" /></p>
+<p><img src="https://img.shields.io/badge/-CSS3-silver?style=for-the-badge&logo=css3&logoColor=1572B6" style="border-radius: 10px;" /></p>
+<p><img src="https://img.shields.io/badge/-Sass-silver?style=for-the-badge&logo=sass&logoColor=CC6699" style="border-radius: 10px;" /></p>
+<p><img src="https://img.shields.io/badge/-Bootstrap-silver?style=for-the-badge&logo=bootstrap&logoColor=7952B3" style="border-radius: 10px;" /></p>
+<p><img src="https://img.shields.io/badge/-jQuery-silver?style=for-the-badge&logo=jquery&logoColor=0769AD" style="border-radius: 10px;" /></p>
+
 
 
 
