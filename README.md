@@ -12,8 +12,17 @@ I am well versed in Html5 and Css3 and I also know JavaScript at an intermediate
 Recently I also learned React.js and Vue.js and put some work samples in my resume.
 
 ## My Projects
+## Projects
 
--[Rest-Api](https://cryptoreact2023.netlify.app/): a small project with React and using axios to get data This project.
+<a href="https://constructionreact2023.netlify.app/">
+    <img src="https://constructionreact2023.netlify.app/Favicon.ico" alt="Favicon" width="20" height="20" style="vertical-align: middle;">
+    <span style="color: black; text-decoration: none;">Construction Project</span>
+</a>: This project multi-page website with React is about a company active in the construction.
+
+<a href="https://cryptoreact2023.netlify.app/">
+    <img src="https://cryptoreact2023.netlify.app/favicon.ico" alt="Favicon" width="20" height="20" style="vertical-align: middle;">
+    <span style="color: black; text-decoration: none;">Rest-Api</span>
+</a>: A brief description about another project.
   
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
