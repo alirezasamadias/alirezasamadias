@@ -19,7 +19,7 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f2f2f2?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-f2f2f2?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-f2f2f2?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-f2f2f2?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-f2f2f2?style=flat&logo=css3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/-Git-f2f2f2?style=flat&logo=git)
 ![React](https://img.shields.io/badge/-React-f2f2f2?style=flat&logo=react)
 
