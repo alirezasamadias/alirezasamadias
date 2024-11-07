@@ -1,5 +1,7 @@
 # Hi, I'm Alireza! 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=alimohamadi)
+
 ## About Me
 Hello, I am Alireza, and it has been more than a year since I got to know the world of programming.
 
@@ -12,8 +14,8 @@ I am well versed in Html5 and Css3 and I also know JavaScript at an intermediate
 Recently I also learned React.js and Vue.js and put some work samples in my resume.
 
 ## My Projects
-- [Project 1](https://constructionreact2023.netlify.app/): Short description of the project
-- [Project 2](https://restaurentjs2023.netlify.app/): Short description of the project
+- [Project 1](https://constructionreact2023.netlify.app/): This project multi-page website with various section which is about a company active in the construction.
+- [Project 2](https://restaurentjs2023.netlify.app/): This single-page website has an animated banner; Most of the site is about the restaurant menu and finally a section for booking.
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
