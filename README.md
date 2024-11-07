@@ -20,7 +20,7 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 </div>
 <br/>
 <div>
-    <img src="https://cryptoreact2023.netlify.app/Favicon.ico" alt="Favicon" width="17" height="17">
+    <img src="https://cryptoreact2023.netlify.app/assets/Logo-D-IfILB7.png" alt="Favicon" width="17" height="17">
     &nbsp;
     <a href="https://cryptoreact2023.netlify.app/">Rest API</a>
     : a small project with React and using axios to get data.
