@@ -23,7 +23,7 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 ![Git](https://img.shields.io/badge/-Git-f9f9f9?style=flat&logo=git)
 ![React](https://img.shields.io/badge/-React-f9f9f9?style=flat&logo=react)
 ## Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST&#32;API-gray?style=for-the-badge&logo=api&logoColor=black)
