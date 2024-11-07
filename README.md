@@ -17,10 +17,20 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 </a>
 [Construction](https://constructionreact2023.netlify.app/): This project multi-page website with React is about a company active in the construction.
 
-- [![Favicon](https://constructionreact2023.netlify.app/Favicon.ico){height="5px" width="5px"}](https://constructionreact2023.netlify.app/): This project multi-page website with React is about a company active in the construction.
-- ![Favicon](https://taskapp2024.netlify.app/Favicon.ico)[Dashboard](https://taskapp2024.netlify.app/): a small project with vue for user dashboard.
-- ![Favicon](https://restaurentjs2023.netlify.app/Images/Favicon.ico)[Restaurant](https://restaurentjs2023.netlify.app/): This single-page website is about a restaurent; Most of the site is about the restaurant menu and finally a section for booking.
-- ![Favicon](https://cryptoreact2023.netlify.app/Favicon.ico)[Rest-Api](https://cryptoreact2023.netlify.app/): a small project with React and using axios to get data This project.
+<a href="https://taskapp2024.netlify.app/">
+    <img src="https://taskapp2024.netlify.app/Favicon.ico" alt="Favicon" width="5" height="5">
+</a>
+[Dashboard](https://taskapp2024.netlify.app/): a small project with vue for user dashboard.
+
+<a href="https://restaurentjs2023.netlify.app/">
+    <img src="https://restaurentjs2023.netlify.app/Favicon.ico" alt="Favicon" width="5" height="5">
+</a>
+[Restaurant](https://restaurentjs2023.netlify.app/): This single-page website is about a restaurent; Most of the site is about the restaurant menu and finally a section for booking.
+
+<a href="https://cryptoreact2023.netlify.app/">
+    <img src="https://cryptoreact2023.netlify.app/Favicon.ico" alt="Favicon" width="5" height="5">
+</a>
+[Rest-Api](https://cryptoreact2023.netlify.app/): a small project with React and using axios to get data This project.
   
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
