@@ -17,12 +17,14 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 
 ## Skills
 ## Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-fff?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-fff?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-fff?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
-![React](https://img.shields.io/badge/-React-fff?style=flat&logo=react)
+## Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+
 
 ## Contact Me
 - Email: alimohamadi@example.com
