@@ -36,8 +36,8 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 <div>
     <a href="https://restaurentjs2023.netlify.app/">
         <img src="https://restaurentjs2023.netlify.app/Images/Favicon.ico" alt="Favicon" width="17" height="17">
-        <span>restaurent</span>
-    </a>: A small project with React and using axios to get data.
+        <span>ريالestaurent</span>
+    </a>: This single-page website; No other libraries or packages were used to create this website
 </div>
   
 ## Skills
