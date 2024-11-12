@@ -52,17 +52,19 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 <br/>
   
 ## Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javaScript" title="javascript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-orginal.svg" height="40" alt="react" title="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-orginal.svg" height="40" alt="vuejs" title="vuejs" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-orginal.svg" height="40" alt="Bootstrap" title="bootstrap" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-orginal.svg" height="40" alt="html5" title="Html5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-orginal.svg" height="40" alt="css3" title="Css3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-orginal.svg" height="40" alt="sass" title="Sass" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-orginal.svg" height="40" alt="jquery" title="Jquery" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-orginal.svg" height="40" alt="git" title="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/javascript-orginal.svg" height="40" alt="github" title="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress" title="WordPress" />
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javaScript" title="javascript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs" title="vuejs" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="bootstrap" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="Html5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="Css3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass" title="Sass" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery" title="Jquery" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-orginal.svg" height="40" alt="git" title="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/javascript-orginal.svg" height="40" alt="github" title="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress" title="WordPress" />
+</div>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=vuejs&logoColor=white)
