@@ -77,6 +77,6 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 </div>
 
 <br/>
-![Snake animation](https://raw.githubusercontent.com/alirezasamadias/alirezasamadias/output/snake.svg)
+![انیمیشن مار](https://raw.githubusercontent.com/alirezasamadias/alirezasamadias/output/snake.svg)
 ## Contact Me
 <p align="center"><a href="mailto:alireza.samadi.as.as@gmail.com"><img src="https://img.icons8.com/3d-fluency/94/email.png" alt="Email" width="40" height="40"/></a><a href="https://linkedin.com/in/alireza-samadi-as"><img src="https://img.icons8.com/3d-fluency/100/linkedin.png" alt="LinkedIn" width="40" height="40"/></a><a href="https://t.me/Alirezasa_as/"><img src="https://img.icons8.com/3d-fluency/100/telegram.png" alt="telegram" width="40" height="40"/></a><a href="https://alirezasamadi.netlify.app"><img src="https://img.icons8.com/3d-fluency/100/world-wide-web-blue-globe-1.png" alt="Email" width="40" height="40"/></a></p><p align="center"> Feel free to reach out to me through any of the platforms above!</p>
