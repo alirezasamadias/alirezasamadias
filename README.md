@@ -54,7 +54,7 @@ Recently I also learned React.js and Vue.js and put some work samples in my resu
 ## Skills
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javaScript" title="javascript" />
-    
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs" title="vuejs" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="bootstrap" />
